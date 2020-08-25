@@ -1,0 +1,5 @@
+/Users/mustafayavuz/Projects/Nasa/Nasa.App/bin/Debug/Nasa.App.exe
+/Users/mustafayavuz/Projects/Nasa/Nasa.App/bin/Debug/Nasa.App.pdb
+/Users/mustafayavuz/Projects/Nasa/Nasa.App/obj/anycpu/Debug/Nasa.App.csproj.CoreCompileInputs.cache
+/Users/mustafayavuz/Projects/Nasa/Nasa.App/obj/anycpu/Debug/Nasa.App.exe
+/Users/mustafayavuz/Projects/Nasa/Nasa.App/obj/anycpu/Debug/Nasa.App.pdb
