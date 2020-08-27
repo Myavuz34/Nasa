@@ -32,7 +32,7 @@ namespace Nasa.App
             }
             else
             {
-                throw new OutOfBoundsException("Valores negativos não permitidos");
+                throw new OutOfBoundsException("Invalid value!. It musn't negative.");
             }
             if (direction.Equals("N") || direction.Equals("S") ||
                 direction.Equals("E") || direction.Equals("W"))
@@ -41,7 +41,7 @@ namespace Nasa.App
             }
             else
             {
-                throw new InvalidStringValueException("String vazia ou inválida.");
+                throw new InvalidStringValueException("Invalid value string is empty or null.");
             }
             this.plateau = plateau;
         }
